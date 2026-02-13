@@ -1,2 +1,4 @@
 # data-analytics-portfolio
-A portfolio of data analytics projects focused on transforming data into actionable business insights.  The analyses cover data preparation, exploratory data analysis, SQL querying, and performance evaluation across different business scenarios, with an emphasis on operational efficiency, decision support, and analytical storytelling.
+This repository contains a collection of data analytics projects focused on business insights, operational performance, and data-driven decision making.
+
+Projects include data cleaning, exploratory analysis, SQL-based analysis, and visualization exercises using real-world business scenarios such as sales performance, customer retention, financial analysis, and urban mobility data.
